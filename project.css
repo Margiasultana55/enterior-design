@@ -1,0 +1,11 @@
+.cover-text:hover{
+    text-shadow:  0 0 25px rgb(74, 74, 238), 0 0 5px rgb(176, 176, 218);
+}
+.nav-text:hover{
+  
+    font-weight: bold;
+}
+.text{
+    text-shadow:  0 0 25px rgb(215, 215, 235), 0 0 5px rgb(176, 206, 218);
+    font-weight: bolder;
+}

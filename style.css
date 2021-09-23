@@ -1,0 +1,15 @@
+.cover-text{
+    text-shadow: 2px  2px black;
+}
+.cover-text:hover{
+    text-shadow:  0 0 25px rgb(74, 74, 238), 0 0 5px rgb(176, 176, 218);
+}
+.my-btn:hover{
+    background-color:rgb(209, 209, 248) ;
+    color: black;
+    border: none;
+}
+.nav-text:hover{
+  
+    font-weight: bold;
+}
